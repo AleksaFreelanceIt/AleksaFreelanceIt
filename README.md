@@ -1,16 +1,16 @@
-## Hi there 👋
+##👋 About Me
 
-<!--
-**AleksaFreelanceIt/AleksaFreelanceIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student at the Faculty of Mathematics, University of Belgrade.
+Passionate about game development and building interactive systems.
 
-Here are some ideas to get you started:
+🎮 Portfolio: [press here!](https://rlms-portfolio.webflow.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into gameplay — combining creativity with a strong foundation in algorithms and data structures to create efficient and engaging experiences.
+
+🎮 Focus
+Game development (Godot, GDScript)
+Gameplay systems & mechanics
+Problem-solving through code
+🚀 Goal
+
+To grow through real-world projects and contribute to impactful game development teams.
