@@ -5,7 +5,7 @@ Passionate about **game development** and building interactive systems.
 I enjoy turning ideas into gameplay, combining creativity with a strong foundation in **algorithms** and **data structures** to create efficient and engaging experiences, but I'm also interested in expanding my horizons in different spheres that I have yet to touch.
 
 ### 🎮 Focus
-- Game development (Godot, GDScript)
+- Game development (Godot, Unity)
 - Gameplay systems & mechanics
 - Problem-solving through code
 
